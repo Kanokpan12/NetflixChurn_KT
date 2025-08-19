@@ -9,8 +9,8 @@ This project predicts Netflix customer churn using a dataset of customer activit
 
 ## Tools & Methods
 - **Python libraries**: pandas, numpy, scikit-learn, matplotlib
-- **Models**: Logistic Regression, Random Forest (replace with the actual ones you used)
-- **Evaluation Metrics**: Accuracy, F1-score, ROC-AUC (fill in your actual metrics)
+- **Models**: Logistic Regression, Random Forest, XGBoost
+- **Evaluation Metrics**: Accuracy, F1-score
 
 ## Results
 - Best model: XGBoost model

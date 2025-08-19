@@ -14,8 +14,8 @@ This project predicts Netflix customer churn using a dataset of customer activit
 
 ## Results
 - Best model: XGBoost model
-- ROC-AUC: [your value]
-- Top features: [list top predictors]
+- Accuracy: 98%
+- Top features: activity_score (user enganement) and estimated tenure 
 
 ## How to Run
 1. Install dependencies: follow python script.
